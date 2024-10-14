@@ -158,13 +158,7 @@
 				</LocalAccounts>
 			</UserAccounts>
 			<AutoLogon>
-				<Username>administrador</Username>
-				<Enabled>true</Enabled>
-				<LogonCount>1</LogonCount>
-				<Password>
-					<Value>gibawes1</Value>
-					<PlainText>true</PlainText>
-				</Password>
+			  <Enabled>false</Enabled>
 			</AutoLogon>
 			<OOBE>
 				<ProtectYourPC>3</ProtectYourPC>
